@@ -1,0 +1,16 @@
+[2022-04-29 21:44:10.109] [remoteagent] [info] Extension host agent started.
+[2022-04-29 21:44:10.219] [remoteagent] [info] [127.0.0.1][11f1150a][ManagementConnection] New connection established.
+[2022-04-29 21:44:10.226] [remoteagent] [info] [127.0.0.1][fb419c7e][ExtensionHostConnection] New connection established.
+[2022-04-29 21:44:10.232] [remoteagent] [info] [127.0.0.1][fb419c7e][ExtensionHostConnection] <1848> Launched Extension Host Process.
+[2022-04-29 21:59:56.018] [remoteagent] [warning] No ptyHost heartbeat after 6 seconds
+[2022-04-29 22:02:18.976] [remoteagent] [warning] No ptyHost heartbeat after 6 seconds
+[2022-04-29 22:03:18.075] [remoteagent] [warning] No ptyHost heartbeat after 6 seconds
+[2022-04-29 22:54:56.789] [remoteagent] [warning] No ptyHost heartbeat after 6 seconds
+[2022-04-29 22:55:13.367] [remoteagent] [warning] No ptyHost heartbeat after 6 seconds
+[2022-04-29 22:55:19.367] [remoteagent] [error] No ptyHost heartbeat after 12 seconds
+[2022-04-29 22:55:54.388] [remoteagent] [warning] No ptyHost heartbeat after 6 seconds
+[2022-04-29 23:17:07.830] [remoteagent] [info] [127.0.0.1][11f1150a][ManagementConnection] The client has disconnected, will wait for reconnection 3h before disposing...
+[2022-04-30 00:47:53.834] [remoteagent] [warning] No ptyHost heartbeat after 6 seconds
+[2022-04-30 00:56:27.032] [remoteagent] [warning] No ptyHost heartbeat after 6 seconds
+[2022-04-30 00:56:32.034] [remoteagent] [error] No ptyHost heartbeat after 12 seconds
+[2022-04-30 02:05:43.846] [remoteagent] [warning] No ptyHost heartbeat after 6 seconds
