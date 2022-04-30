@@ -14,7 +14,7 @@ pipeline {
              agent any
              steps {
                 script {
-                  sh 'sudo docker build -t ${ID_DOCKER}/$IMAGE_NAME:$IMAGE_TAG .'
+                  sh 'docker build -t ${ID_DOCKER}/$IMAGE_NAME:$IMAGE_TAG .'
                 }
              }
         }
